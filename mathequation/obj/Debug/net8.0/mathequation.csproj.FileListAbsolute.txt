@@ -1,0 +1,15 @@
+C:\Users\Sasmita\Documents\vs22\StrukDat\latihan-domjudge\mathequation\mathequation\bin\Debug\net8.0\mathequation.exe
+C:\Users\Sasmita\Documents\vs22\StrukDat\latihan-domjudge\mathequation\mathequation\bin\Debug\net8.0\mathequation.deps.json
+C:\Users\Sasmita\Documents\vs22\StrukDat\latihan-domjudge\mathequation\mathequation\bin\Debug\net8.0\mathequation.runtimeconfig.json
+C:\Users\Sasmita\Documents\vs22\StrukDat\latihan-domjudge\mathequation\mathequation\bin\Debug\net8.0\mathequation.dll
+C:\Users\Sasmita\Documents\vs22\StrukDat\latihan-domjudge\mathequation\mathequation\bin\Debug\net8.0\mathequation.pdb
+C:\Users\Sasmita\Documents\vs22\StrukDat\latihan-domjudge\mathequation\mathequation\obj\Debug\net8.0\mathequation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasmita\Documents\vs22\StrukDat\latihan-domjudge\mathequation\mathequation\obj\Debug\net8.0\mathequation.AssemblyInfoInputs.cache
+C:\Users\Sasmita\Documents\vs22\StrukDat\latihan-domjudge\mathequation\mathequation\obj\Debug\net8.0\mathequation.AssemblyInfo.cs
+C:\Users\Sasmita\Documents\vs22\StrukDat\latihan-domjudge\mathequation\mathequation\obj\Debug\net8.0\mathequation.csproj.CoreCompileInputs.cache
+C:\Users\Sasmita\Documents\vs22\StrukDat\latihan-domjudge\mathequation\mathequation\obj\Debug\net8.0\mathequation.dll
+C:\Users\Sasmita\Documents\vs22\StrukDat\latihan-domjudge\mathequation\mathequation\obj\Debug\net8.0\refint\mathequation.dll
+C:\Users\Sasmita\Documents\vs22\StrukDat\latihan-domjudge\mathequation\mathequation\obj\Debug\net8.0\mathequation.pdb
+C:\Users\Sasmita\Documents\vs22\StrukDat\latihan-domjudge\mathequation\mathequation\obj\Debug\net8.0\mathequation.genruntimeconfig.cache
+C:\Users\Sasmita\Documents\vs22\StrukDat\latihan-domjudge\mathequation\mathequation\obj\Debug\net8.0\ref\mathequation.dll
+C:\Users\Sasmita\Documents\vs22\StrukDat\latihan-domjudge\mathequation\mathequation\obj\Debug\net8.0\mathequation.sourcelink.json
