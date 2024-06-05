@@ -9,7 +9,7 @@
 ## Cara membuka project secara langsung
 
 1. Clone repositori project `Basic-Calculator` ke direktori lokal git Anda.
-2. Pergi ke dalam direktori `Basic-Calculator\bin\Debug\net8.0`.
+2. Pergi ke dalam direktori `Basic-Calculator\mathequation\bin\Debug\net8.0`.
 3. Buka file *.exe.
 
 ## Cara membuka project menggunakan Visual Studio
